@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Segunda_entrega" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- <item name="android:windowIsTranslucent">true</item> -->
+        <!-- Personaliza tu tema aquí -->
+    </style>
+</resources>
+
+
